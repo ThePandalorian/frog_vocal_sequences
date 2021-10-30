@@ -1,0 +1,16 @@
+,PC1,PC2,PC3
+Delta Time (s),0.2618,0.0087,0.3624
+Avg Entropy (bits),-0.4271,-0.322,-0.2075
+Max.Entropy (bits),-0.2895,0.0304,-0.3657
+Bandwidth 90% (Hz.),-0.3372,-0.4295,-0.0526
+IQR Bandwidth (Hz.),-0.2272,-0.4631,0.0728
+IQR Duration (s),0.0424,-0.3081,0.3041
+PFC Max Slope (Hz/ms),-0.4111,0.2188,0.3285
+PFC Min Slope (Hz/ms),0.3921,-0.261,-0.3473
+Peak Frequency (Hz.),-0.1719,0.4361,-0.1531
+PFC Max Frequency (Hz.),-0.3718,0.2904,0.0305
+PFC Min Frequency (Hz.),0.0877,0.0828,-0.5387
+Peak Time Relative,0.0004,-0.0638,0.2199
+,,,
+"Cumulative proportion of
+Variance explained",0.235,0.4634,0.601
